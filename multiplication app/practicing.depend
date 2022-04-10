@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528633659 source:e:\c language\c apps\practicing\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536589475 source:e:\c language\c apps\multiplication app\main.c
+	<stdio.h>
+	<stdlib.h>
+

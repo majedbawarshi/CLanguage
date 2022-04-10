@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537062472 source:c:\users\majd_1m\desktop\c language\c apps\gpa calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537189510 source:e:\c language\c apps\gpa calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
